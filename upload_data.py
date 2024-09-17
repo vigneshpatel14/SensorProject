@@ -1,4 +1,4 @@
-from pymongo.mongo_client import MongoClient
+from pymongo import MongoClient
 import pandas as pd
 import json
 
